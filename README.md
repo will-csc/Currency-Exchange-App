@@ -12,7 +12,7 @@ A modern and intuitive currency converter application built with React Native an
 
 ## Screenshots
 
-
+<img width="290" height="561" alt="image" src="https://github.com/user-attachments/assets/72b394de-4ec0-420d-89c0-69a92c21bc13" />
 
 ## Technologies Used
 
